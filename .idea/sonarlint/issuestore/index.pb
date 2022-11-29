@@ -1,0 +1,23 @@
+
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+[
++CodingTask/src/main/kotlin/DivisibleBy35.kt,1\c\1c4448f3179f07371c95aca60a6f9181265e5464
+\
+,CodingTask/src/main/kotlin/LambdaFunction.kt,0\b\0bdacfc0558b2804bd5855776292ee0a7897b810
+R
+"CodingTask/src/main/kotlin/Main.kt,6\3\63b318a79d7f25700eba95580bd961dbcb5e4ade
+f
+6CodingTask/src/main/kotlin/com/axis/Account/Account.kt,c\5\c5dd9cf16c1fe3372e629f87a903f532ff7f7843
+i
+9CodingTask/src/main/kotlin/com/axis/Account/AccountApp.kt,6\8\6804e47ffbb1b54ea0740f38e72ef65c94a2e1c8
+m
+=CodingTask/src/main/kotlin/com/axis/Account/AccountService.kt,4\6\46bea231727ceddc3f1c50767e319d239acfd42a
+h
+8CodingTask/src/main/kotlin/com/axis/Wrestler/Wrestler.kt,6\e\6ebd783d86718cf4ca87347065e857ddadf501a1
+k
+;CodingTask/src/main/kotlin/com/axis/Wrestler/WrestlerApp.kt,4\7\476e28ec72066cfcaaa8db0be430c5803b5f81bd
+p
+@CodingTask/src/main/kotlin/com/axis/Wrestler/WrestlerDatabase.kt,1\7\175108ae19b2b47bccf0f9ac36629883b7f70cbf
+o
+?CodingTask/src/main/kotlin/com/axis/Wrestler/WrestlerService.kt,8\3\83b07174214c14fea63579037469996cc8868820

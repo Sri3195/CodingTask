@@ -1,6 +1,4 @@
 package com.axis.Account
-import com.axis.Account.Account
-import com.axis.Account.AccountService
 import java.util.Scanner
 
 fun main()

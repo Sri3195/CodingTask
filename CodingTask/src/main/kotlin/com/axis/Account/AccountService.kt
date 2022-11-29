@@ -1,5 +1,4 @@
 package com.axis.Account
-import com.axis.Account.Account
 class AccountService(){
 
     //var acc=Account()
